@@ -1,0 +1,12 @@
+.hoem-wrapper{
+  display: grid;
+  grid-template-columns: 1em 1fr 1fr;
+  gap:0 1em;
+}
+ .language-javascript{
+  width: 100%;
+  background-color: #eee;
+  padding: 1em;
+  display: inline-block;
+  box-sizing: border-box;
+}
